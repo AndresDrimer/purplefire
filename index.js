@@ -21,5 +21,4 @@ document.getElementById("terracota-scroll-button").addEventListener("click", fun
 });
 
 
-//slider
 
